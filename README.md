@@ -1,13 +1,15 @@
----
-date: 2023-11-08 22:07
-progress: In progress
-tags:
-  - OSS
-  - Book
----
+
 # Don't Just watch Youtube, READ IT! 
 Deepen your knowledge by reading books related to your videos! 
 ![](https://i.imgur.com/vInRAva.png)
+
+
+
+
+
+
+
+
 
 ## How to use it ? 
 1. Copy your favorite YouTube link!
@@ -15,9 +17,22 @@ Deepen your knowledge by reading books related to your videos!
 3. Wait a few minutes!
 4. Discover the book you want!
 
+
+
+
+
+
+
 ## How did you create it? 
 - We summarized YouTube using the STT model and Map-Reduce. 
 - Use the GPT API and the Book API to search for books based on keywords in the video from the summarized content. 
+
+
+
+
+
+
+
 
 
 - - -
